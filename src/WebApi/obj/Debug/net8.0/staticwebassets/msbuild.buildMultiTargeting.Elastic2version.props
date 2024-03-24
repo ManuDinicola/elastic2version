@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Elastic2version.props" />
+</Project>

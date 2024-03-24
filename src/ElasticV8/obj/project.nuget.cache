@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UQQUbk6Hm4eFymVNYsnbQBw1TY5wUrGNiAy7G2su1tOp7hSnBmnFPoDYeSkrTzpBSSMvxmwfIPY6Z2/0hXecFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emmanuel.dinicola\\source\\repos\\Elastic2version\\src\\ElasticV8\\ElasticV8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\elastic.clients.elasticsearch\\8.12.0\\elastic.clients.elasticsearch.8.12.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\elastic.transport\\0.4.17\\elastic.transport.0.4.17.nupkg.sha512"
+  ],
+  "logs": []
+}

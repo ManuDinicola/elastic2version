@@ -1,0 +1,11 @@
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\bin\Debug\net8.0\ElasticRepository.deps.json
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\bin\Debug\net8.0\ElasticRepository.dll
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\bin\Debug\net8.0\ElasticRepository.pdb
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\obj\Debug\net8.0\ElasticRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\obj\Debug\net8.0\ElasticRepository.AssemblyInfoInputs.cache
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\obj\Debug\net8.0\ElasticRepository.AssemblyInfo.cs
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\obj\Debug\net8.0\ElasticRepository.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\obj\Debug\net8.0\ElasticRepository.dll
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\obj\Debug\net8.0\refint\ElasticRepository.dll
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\obj\Debug\net8.0\ElasticRepository.pdb
+C:\Users\emmanuel.dinicola\source\repos\Elastic2version\src\ElasticRepository\obj\Debug\net8.0\ref\ElasticRepository.dll

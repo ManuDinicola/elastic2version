@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "hmPbiDU12NUDnhNYMnS/LWp0o1AG90/v8W2cKVy2wGQxhYHUJyx2Ss4ooWujttP2oDfp2RJn/PymlVZjJzAnCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emmanuel.dinicola\\source\\repos\\Elastic2version\\src\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\elastic.clients.elasticsearch\\8.12.0\\elastic.clients.elasticsearch.8.12.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\elastic.transport\\0.4.17\\elastic.transport.0.4.17.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\emmanuel.dinicola\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
